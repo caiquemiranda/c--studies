@@ -1,3 +1,3 @@
 # studies-c++
 
-studies-c
+studies-c++
