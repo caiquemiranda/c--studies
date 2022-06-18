@@ -1,3 +1,1 @@
-# studies-c++
-
-studies-c++
+# c++ - studies
